@@ -1,0 +1,5 @@
+# AQI-Prediction-System
+git add .
+git commit -m "update"
+git push
+git pull origin main
