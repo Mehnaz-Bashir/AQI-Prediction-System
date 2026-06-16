@@ -818,4 +818,7 @@ st.markdown("<div style='text-align:center;color:#4a5568;font-size:13px'>"
             "🌫️ India Air Pollution Dashboard | Streamlit + Plotly + Scikit-learn | "
             "Live data via WAQI API</div>",
             unsafe_allow_html=True)
+st.markdown("<div style='text-align:center;color:#4a5568;font-size:12px;margin-top:6px'>"
+            "👥 Made by <b>Mehnaz Bashir</b> & <b>Rahim Kamran</b></div>",
+            unsafe_allow_html=True)
 
