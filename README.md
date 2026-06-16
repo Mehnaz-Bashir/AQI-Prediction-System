@@ -33,15 +33,6 @@ We use the official CPCB (Central Pollution Control Board) breakpoint formula. E
 ## 📂 Dataset
 `city_day.csv` — day-wise historical air quality readings from CPCB monitoring stations across 26 Indian cities (Ahmedabad, Aizawl, Amaravati, Amritsar, Bengaluru, and more) from 2015 to 2020.
 
-## ⚙️ Run It Locally
-```bash
-git clone <this-repo-url>
-cd AQI-Prediction-System
-pip install -r requirements.txt
-streamlit run app.py
-```
-To enable the Live & Forecast tab, add your free WAQI token in Streamlit secrets (get one at aqicn.org/data-platform/token).
-
 
 ## 🙏 Acknowledgements
 - Dataset: CPCB / Kaggle India Air Quality data
